@@ -1,0 +1,7 @@
+name: SpecterLooting
+author: [Specter]
+version: 1.0
+main: com.lucas.specterlooting.Main
+commands:
+  givelivro:
+  stacklivros:
